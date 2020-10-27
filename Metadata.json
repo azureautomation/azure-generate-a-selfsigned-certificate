@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Conkle - MSFT",
+    "ContentSize": 15058,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-generate-a-selfsigned-certificate/master/Azure_Self_Signed_Certificate.ps1",
+    "DownloadCount": 2110,
+    "Id": "Azure-Generate-a-Self-72bb7ee3",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 444,
+    "RaterCount": 5,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-7-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script sample demonstrates how to utilize Windows PowerShell to generate a self-signed Client Authentication certificate.",
+    "Title": "Azure: Generate a Self-Signed Certificate",
+    "UpdatedDate": "2014-7-30T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-generate-a-selfsigned-certificate",
+    "UserTags": "azure backup, azure certificate, azure self-signed"
+}
